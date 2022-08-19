@@ -14,7 +14,7 @@ It has following features:
 - Search by Title/Author name
 - Sort by recently Published
 - Sort based on Ratings/Popularity
-- Display the number of Available books for a given .
+- Display the number of Available books for a given query.
 
 ---
 
