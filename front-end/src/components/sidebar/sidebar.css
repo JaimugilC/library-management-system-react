@@ -1,0 +1,46 @@
+.sidebar{
+    position: fixed;
+    width: 20vw;
+    height: 100vh;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(109, 191, 197);
+    height: 25%;
+    width: 100%;
+}
+.icon{
+    font-size: 10vh;
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    height: 75%;
+    width: 100%;
+}
+.bodyTitle{
+    color: grey;
+    padding: 2vh 0 2vh 0;
+    font-size: 15px;
+    padding-left: 20px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    padding: 1vh 0 1vh 0;
+    padding-left: 30px;
+    transition: all 0.3s;
+}
+.link:hover{
+    background-color: white;
+    color: black;
+    transition: all 0.3s;
+}
+
+.active{
+    background-color: white;
+    color: black;
+}

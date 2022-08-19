@@ -1,0 +1,7 @@
+.maincontainer{
+  display: flex;
+}
+.maincontent{
+  position: relative;
+  margin-left: 20vw;
+}
