@@ -3,7 +3,7 @@
 A simple library management system created using React js library.
 Currently it has only single page which shows the book shelf for the user.
 
-![alt text](https://github.com/JaimugilC/library-management-system-react/Screenshot.png)
+![Image not found](https://github.com/JaimugilC/library-management-system-react/blob/main/Screenshot.png)
 
 It has following features:
 
