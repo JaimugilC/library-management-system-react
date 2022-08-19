@@ -1,6 +1,6 @@
 # library-management-system-react
 
-A simple library management system created using React js library.\n
+A simple library management system created using React js library.
 
 Currently it has only single page which shows the book shelf for the user.
 
